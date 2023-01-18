@@ -1,0 +1,5 @@
+track foxj1
+bigDataUrl https://github.com/imhuangshihui/UCSC_hub/blob/main/t.BigBed.bb
+shortLabel foxj1 short label
+longLabel foxj1 long label
+type bigBed 4
