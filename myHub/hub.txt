@@ -3,4 +3,4 @@ shortLabel UCSC foxj1 hub
 longLabel UCSC Genome Informatics Hub for human methylation data of foxj1
 genomesFile genomes.txt
 email junehuang@link.cuhk.edu.hk
-descriptionUrl descriptionUrl 
+descriptionUrl https://raw.githubusercontent.com/imhuangshihui/UCSC_hub/main/myHub
