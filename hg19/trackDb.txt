@@ -3,7 +3,6 @@ bigDataUrl foxj1.sigprob.mean0.bb
 shortLabel foxj1 0YFU bb
 longLabel Significant 0 YFU probes values of FOXJ1
 type bigBed 4
-visibility full
 autoScale on
 
 track foxj116YFUbigBed
@@ -11,7 +10,6 @@ bigDataUrl foxj1.sigprob.mean16.bb
 shortLabel foxj1 16YFU bb
 longLabel Significant 16 YFU probes values of FOXJ1
 type bigBed 4
-visibility full
 autoScale on
 color 255,0,0
 
