@@ -1,23 +1,33 @@
-track foxj1mean0forbb
+track foxj10YFUbigBed
 bigDataUrl foxj1.sigprob.mean0.bb
-shortLabel foxj1 mean0 short
-longLabel foxj1 mean0 long
+shortLabel foxj1 0YFU bb
+longLabel Significant 0 YFU probes values of FOXJ1
 type bigBed 4
+visibility full
+autoScale on
 
-track foxj1mean16forbb
+track foxj116YFUbigBed
 bigDataUrl foxj1.sigprob.mean16.bb
-shortLabel foxj1 mean16 short
-longLabel foxj1 mean16 long
+shortLabel foxj1 16YFU bb
+longLabel Significant 16 YFU probes values of FOXJ1
 type bigBed 4
+visibility full
+autoScale on
+color 255,0,0
 
-track foxj1mean0forbw
+track foxj10YFUbigWig
 bigDataUrl foxj1.sigprob.mean0.bw
-shortLabel foxj1 mean0 short
-longLabel foxj1 mean0 long
+shortLabel foxj1 0YFU bw
+longLabel Significant 0 YFU probes values of FOXJ1
 type bigWig
+visibility full
+autoScale on
 
-track foxj1mean16forbw
+track foxj116YFUbigWig
 bigDataUrl foxj1.sigprob.mean16.bw
-shortLabel foxj1 mean0 short
-longLabel foxj1 mean0 long
+shortLabel foxj1 16YFU bw
+longLabel Signicicant 16 YFU probes values of FOXJ1
 type bigWig
+visibility full
+autoScale on
+color 255,0,0
