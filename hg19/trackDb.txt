@@ -1,5 +1,23 @@
-track foxj1
-bigDataUrl https://github.com/imhuangshihui/UCSC_hub/blob/main/t.BigBed.bb
-shortLabel foxj1 short label
-longLabel foxj1 long label
+track foxj1mean0forbb
+bigDataUrl foxj1.sigprob.mean0.bb
+shortLabel foxj1 mean0 short
+longLabel foxj1 mean0 long
 type bigBed 4
+
+track foxj1mean16forbb
+bigDataUrl foxj1.sigprob.mean16.bb
+shortLabel foxj1 mean16 short
+longLabel foxj1 mean16 long
+type bigBed 4
+
+track foxj1mean0forbw
+bigDataUrl foxj1.sigprob.mean0.bw
+shortLabel foxj1 mean0 short
+longLabel foxj1 mean0 long
+type bigWig
+
+track foxj1mean16forbw
+bigDataUrl foxj1.sigprob.mean16.bw
+shortLabel foxj1 mean0 short
+longLabel foxj1 mean0 long
+type bigWig
