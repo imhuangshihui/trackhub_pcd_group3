@@ -1,5 +1,5 @@
-hub UCSCfoxj1hub
-shortLabel UCSC foxj1 hub
-longLabel UCSC Genome Informatics Hub for human methylation data of foxj1
+hub PCDHubGroup3
+shortLabel PCD Hub Group3
+longLabel The hub of patients with PCD aged from 74 to 76
 genomesFile genomes.txt
 email junehuang@link.cuhk.edu.hk
