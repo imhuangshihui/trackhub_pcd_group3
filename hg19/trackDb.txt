@@ -1,30 +1,49 @@
-track foxj10YFUbigBed
-bigDataUrl foxj1.sigprob.mean0.bb
-shortLabel foxj1 0YFU bb
-longLabel Significant 0 YFU probes values of FOXJ1
-type bigBed 4
-autoScale on
-
-track foxj116YFUbigBed
-bigDataUrl foxj1.sigprob.mean16.bb
-shortLabel foxj1 16YFU bb
-longLabel Significant 16 YFU probes values of FOXJ1
-type bigBed 4
-autoScale on
-color 255,0,0
-
-track foxj10YFUbigWig
-bigDataUrl foxj1.sigprob.mean0.bw
-shortLabel foxj1 0YFU bw
-longLabel Significant 0 YFU probes values of FOXJ1
+track HK1280_0YFU
+bigDataUrl HK1280_0YFU.sorted.bed.bw
+shortLabel HK1280_0YFU(age 74)
+longLabel HK1280_0YFU with 494 probes
 type bigWig
 visibility full
 autoScale on
 
-track foxj116YFUbigWig
-bigDataUrl foxj1.sigprob.mean16.bw
-shortLabel foxj1 16YFU bw
-longLabel Signicicant 16 YFU probes values of FOXJ1
+track HK1280_16YFU
+bigDataUrl HK1280_16YFU.sorted.bed.bw
+shortLabel HK1280_16YFU(age 74)
+longLabel HK1280_16YFU with 494 probes
+type bigWig
+visibility full
+autoScale on
+color 255,0,0
+
+track MS0153_0YFU
+bigDataUrl MS0153_0YFU.sorted.bed.bw
+shortLabel MS0153_0YFU(age 75)
+longLabel MS0153_0YFU with 494 probes
+type bigWig
+visibility full
+autoScale on
+
+track MS0153_16YFU
+bigDataUrl MS0153_16YFU.sorted.bed.bw
+shortLabel MS0153_16YFU(age 75)
+longLabel MS0153_16YFU with 494 probes
+type bigWig
+visibility full
+autoScale on
+color 255,0,0
+
+track MS1441_0YFU
+bigDataUrl MS1441_0YFU.sorted.bed.bw
+shortLabel MS1441_0YFU(age 76)
+longLabel MS1441_0YFU with 494 probes
+type bigWig
+visibility full
+autoScale on
+
+track MS1441_16YFU
+bigDataUrl MS1441_16YFU.sorted.bed.bw
+shortLabel MS1441_16YFU(age 76)
+longLabel MS1441_16YFU with 494 probes
 type bigWig
 visibility full
 autoScale on
