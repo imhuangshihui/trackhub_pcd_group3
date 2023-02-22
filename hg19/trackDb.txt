@@ -16,7 +16,7 @@ autoScale on
 color 255,0,0
 
 track HK1280_ratio
-bigDataUrl HK1280.ration.bed.bw
+bigDataUrl HK1280.ratio.bed.bw
 shortLabel HK1280_16/0(age 74)
 longLabel HK1280_16/0 with 494 probes
 type bigWig
