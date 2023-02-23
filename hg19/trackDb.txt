@@ -22,7 +22,8 @@ longLabel HK1280_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 117,107,177
+#################################################
 
 track MS0153_0YFU
 bigDataUrl MS0153_0YFU.sorted.bed.bw
@@ -48,8 +49,8 @@ longLabel MS0153_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
-
+color 117,107,177
+##############################################
 track MS1441_0YFU
 bigDataUrl MS1441_0YFU.sorted.bed.bw
 shortLabel MS1441_0YFU(age 76)
@@ -74,4 +75,5 @@ longLabel MS1441_16/0 with 494 probes
 type bigWig
 visibility full
 autoScale on
-color 49,163,84
+color 117,107,177
+##############################################
